@@ -1,0 +1,23 @@
+
+.form-div{
+    height: 700px;
+    width: 500px;
+    background-color: whitesmoke;
+    margin: 35px 451px;
+}
+.form-containt{
+    margin-top: 20px;
+    margin-left: 80px;
+    padding: 20px 0px;
+}
+textarea ,input{
+    width: 70%;
+    padding: 7px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid;
+  background-color: whitesmoke;
+}
+.Error{
+    color: red;
+}

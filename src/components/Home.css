@@ -1,0 +1,34 @@
+
+.containt{
+    height: 500px;
+    width: 100%;
+ background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-carbon-fiber-background-in-black-circle-and-golden-line-with-realistic-picture-image_1205061.jpg);
+ display: flex;
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+.containt-text{
+    height: 500px;
+    width: 60%;
+    color: white;
+    margin-top: 20px;
+   margin-left: 357px;
+   
+}
+hr{
+    border-color: deepskyblue;
+    width: 85%;
+}
+h2{
+    font-family: cursive;
+    color: tan;
+}
+
+.containtimg{ 
+    height: 400px;
+    width: 30%;
+}
+img{
+    border-radius: 5%;
+    margin-top: 60px;
+}
